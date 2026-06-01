@@ -13,6 +13,10 @@ built for Coolblue Netherlands using Claude API.
 - Python 3.x
 - Anthropic Claude API
 - Prompt Engineering
+  ## How to Use
+1. Copy the system prompt from prompt.py
+2. Open claude.ai
+3. Paste the prompt and start chatting!
 
 ## Skills Demonstrated
 - System Prompt Design
@@ -22,5 +26,6 @@ built for Coolblue Netherlands using Claude API.
 - Prompt Testing
 
 ## Author
-[اسمت] - AI Engineer (in training)
+
+Hoda - AI Engineer (in training)
 Netherlands 🇳🇱
