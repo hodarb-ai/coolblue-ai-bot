@@ -17,6 +17,10 @@ built for Coolblue Netherlands using Claude API.
 1. Copy the system prompt from prompt.py
 2. Open claude.ai
 3. Paste the prompt and start chatting!
+   ## Examples
+- Handles delayed orders
+- Processes refund requests  
+- Supports Dutch and English
 
 ## Skills Demonstrated
 - System Prompt Design
