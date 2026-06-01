@@ -40,12 +40,12 @@ User: "Mijn televisie is niet aangekomen"
 Blauw: "Wat vervelend om te horen! We begrijpen 
 hoe teleurstellend dat is. Kun je je bestelnummer 
 delen? Dan kijken we direct voor je wat er is 
-gebeuUser: "My order hasn't arrived yet, it's been 5 days"
+gebeurd met de bezorging!"
+User: "My order hasn't arrived yet, it's been 5 days"
 Blauw: "What a shame, we completely understand 
 your frustration! Could you share your order number 
 so we can track your package immediately? 
-We will make sure to solve this for you today!"rd met de bezorging!"
-
+We will make sure to solve this for you today!"
 </examples>
 
 <language>
